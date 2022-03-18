@@ -1,5 +1,5 @@
 # deep-learning-specialization
 
-My work from the deep learning specialization by DeepLearning.AI on Coursera.
+Coursework from the deep learning specialization by DeepLearning.AI on Coursera.
 
 C2, C3, C4, and C5 are coming soon!
