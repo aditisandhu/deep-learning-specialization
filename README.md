@@ -1,4 +1,4 @@
-# deep-learning-specialization
+## Deep Learning Specialization 
 
 Coursework from the deep learning specialization by DeepLearning.AI on Coursera.
 
